@@ -1,0 +1,8 @@
+package com;
+
+import javax.servlet.http.HttpServlet;
+
+@WebServlet("/greet")
+public class Greet extends HttpServlet{
+
+}

@@ -1,0 +1,13 @@
+package com;
+
+import javax.servlet.http.HttpServlet;
+
+@WebServlet()
+public class Message extends HttpServlet{
+
+	public void doGet()
+	{
+		
+	}
+	
+}
