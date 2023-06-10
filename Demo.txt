@@ -1,2 +1,3 @@
 Demo File Modified.
 Demo file changed for git stash.
+git ignore server folder ignored.
