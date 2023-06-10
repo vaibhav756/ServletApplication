@@ -7,3 +7,4 @@ Changes.
 After stashed changes.
 Stash changes.
 Rebase changes.
+git ignore changes.
