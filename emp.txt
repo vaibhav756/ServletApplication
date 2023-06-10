@@ -5,3 +5,4 @@ Develop branch changes.
 Normal.
 Changes.
 After stashed changes.
+Stash changes.
