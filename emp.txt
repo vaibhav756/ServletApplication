@@ -6,3 +6,4 @@ Normal.
 Changes.
 After stashed changes.
 Stash changes.
+Rebase changes.
