@@ -13,6 +13,7 @@ public class Employee extends HttpServlet{
 
 	public void doGet(HttpServletRequest request,HttpServletResponse response) throws IOException
 	{
+	    int pullchanges=0;
 	    PrintWriter writer = response.getWriter();	
 	    writer.append("<h1>Employee servlet executed.</h1>");
 	}
